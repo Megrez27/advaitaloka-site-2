@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f7f1e6" />
+      <stop offset="100%" stop-color="#ecdcc6" />
+    </linearGradient>
+    <linearGradient id="brand" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b05a2f" />
+      <stop offset="100%" stop-color="#7b3b16" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="72" y="72" width="1056" height="486" rx="36" fill="#fffaf3" stroke="#d9c7b0" stroke-width="2" />
+  <rect x="118" y="118" width="92" height="92" rx="24" fill="url(#brand)" />
+  <text x="164" y="174" text-anchor="middle" font-family="Avenir Next, Segoe UI, sans-serif" font-size="34" font-weight="800" letter-spacing="6" fill="#fff7ef">AL</text>
+  <text x="118" y="270" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#26180f">ADVAITALOKA</text>
+  <text x="118" y="320" font-family="Avenir Next, Segoe UI, sans-serif" font-size="22" letter-spacing="5" fill="#6d5848">WISDOM × RESILIENCE</text>
+  <text x="118" y="392" font-family="Avenir Next, Segoe UI, sans-serif" font-size="31" font-weight="600" fill="#26180f">AI-enabled accessibility township</text>
+  <text x="118" y="434" font-family="Avenir Next, Segoe UI, sans-serif" font-size="31" font-weight="600" fill="#26180f">and inclusive innovation zone</text>
+  <text x="118" y="506" font-family="Avenir Next, Segoe UI, sans-serif" font-size="22" fill="#6d5848">Uttar Pradesh · dignity · autonomy · resilience · shared prosperity</text>
+</svg>
