@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f7f1e6" />
+      <stop offset="100%" stop-color="#ecdcc6" />
+    </linearGradient>
+    <linearGradient id="brand" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b05a2f" />
+      <stop offset="100%" stop-color="#7b3b16" />
+    </linearGradient>
+    <radialGradient id="glow" cx="75%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#603a1d" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#glow)" />
+
+  <circle cx="1040" cy="120" r="170" fill="#ffffff" fill-opacity="0.35" />
+  <circle cx="150" cy="520" r="190" fill="#b05a2f" fill-opacity="0.08" />
+
+  <rect x="72" y="72" width="1056" height="486" rx="36" fill="#fffaf3" fill-opacity="0.82" stroke="#d9c7b0" stroke-width="2" filter="url(#shadow)" />
+
+  <rect x="118" y="118" width="92" height="92" rx="24" fill="url(#brand)" />
+  <text x="164" y="174" text-anchor="middle" font-family="Avenir Next, Segoe UI, sans-serif" font-size="34" font-weight="800" letter-spacing="6" fill="#fff7ef">AL</text>
+
+  <text x="118" y="270" font-family="Iowan Old Style, Palatino Linotype, serif" font-size="72" font-weight="700" fill="#26180f">ADVAITALOKA</text>
+  <text x="118" y="320" font-family="Avenir Next, Segoe UI, sans-serif" font-size="22" letter-spacing="5" fill="#6d5848">WISDOM × RESILIENCE</text>
+
+  <text x="118" y="392" font-family="Avenir Next, Segoe UI, sans-serif" font-size="31" font-weight="600" fill="#26180f">
+    AI-enabled accessibility township
+  </text>
+  <text x="118" y="434" font-family="Avenir Next, Segoe UI, sans-serif" font-size="31" font-weight="600" fill="#26180f">
+    and inclusive innovation zone
+  </text>
+
+  <text x="118" y="506" font-family="Avenir Next, Segoe UI, sans-serif" font-size="22" fill="#6d5848">
+    Uttar Pradesh · dignity · autonomy · resilience · shared prosperity
+  </text>
+
+  <rect x="844" y="140" width="210" height="110" rx="28" fill="#fff5eb" stroke="#e5d2bf" />
+  <text x="875" y="180" font-family="Avenir Next, Segoe UI, sans-serif" font-size="16" letter-spacing="3" fill="#6d5848">SYSTEM</text>
+  <text x="875" y="216" font-family="Avenir Next, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#26180f">Place + Platform</text>
+  <text x="875" y="246" font-family="Avenir Next, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#26180f">+ Movement</text>
+
+  <rect x="790" y="292" width="264" height="176" rx="32" fill="#fffdf8" stroke="#e5d2bf" />
+  <text x="824" y="338" font-family="Avenir Next, Segoe UI, sans-serif" font-size="16" letter-spacing="3" fill="#6d5848">VISION</text>
+  <text x="824" y="382" font-family="Avenir Next, Segoe UI, sans-serif" font-size="32" font-weight="700" fill="#26180f">Zero-barrier by</text>
+  <text x="824" y="420" font-family="Avenir Next, Segoe UI, sans-serif" font-size="32" font-weight="700" fill="#26180f">default.</text>
+  <text x="824" y="458" font-family="Avenir Next, Segoe UI, sans-serif" font-size="22" fill="#6d5848">Accessibility as productive</text>
+  <text x="824" y="488" font-family="Avenir Next, Segoe UI, sans-serif" font-size="22" fill="#6d5848">infrastructure, not afterthought.</text>
+</svg>
